@@ -1,6 +1,6 @@
 # bamazon
 
-This application can be used to view the items available in the bamazon store, and choose and choose one to purchase.
+This application can be used to view the items available in the bamazon store, and choose one to purchase.
 
 ## The path in the terminal:
 
