@@ -10,7 +10,7 @@ This application can be used to view the items available in the bamazon store, a
 ![application-start](/assets/images/app-start.png)
 
 
-### The terminal will then ask how many you would like
+### The terminal will then ask how many you would like...
 ![item-count](/assets/images/item-count.png)
 
 
@@ -18,6 +18,6 @@ This application can be used to view the items available in the bamazon store, a
 ![not-enough](/assets/images/not-enough.png)
 
 
-### After your purchase is complete, you will be brought back to the starting point 
+### After your purchase is complete, the stock will update and you will return to the store front... 
 ![success](/assets/images/success.png)
 
